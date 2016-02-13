@@ -1,0 +1,11 @@
+Pizza (Traditional)
+
+Ingredients:
+	Phone
+	Money
+
+
+	Take phone, and call your local pizza place.  Tell them what you want and where you are.  They will arrive shortly 
+with a fresh, delicious pizza.  Make sure to give them money, or this recepie may stop working.
+
+Enjoy!
